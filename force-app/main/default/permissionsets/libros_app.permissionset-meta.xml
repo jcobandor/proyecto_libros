@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PermissionSet xmlns="http://soap.sforce.com/2006/04/metadata">
+    <applicationVisibilities>
+        <application>libreria_app</application>
+        <visible>true</visible>
+    </applicationVisibilities>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>Libros__c.portada_imagen__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <hasActivationRequired>false</hasActivationRequired>
+    <label>Libros App</label>
+    <tabSettings>
+        <tab>Libros__c</tab>
+        <visibility>Visible</visibility>
+    </tabSettings>
+</PermissionSet>
