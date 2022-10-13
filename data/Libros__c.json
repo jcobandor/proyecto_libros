@@ -1,0 +1,31 @@
+{
+    "records": [
+        {
+            "attributes": {
+                "type": "Libros__c",
+                "referenceId": "Libros__cRef1"
+            },
+            "Name": "Diario de ana frank",
+            "editorial__c": "Brontes",
+            "portada_url__c": "https://herder.com.mx/sites/default/files/uploads/product_images/diario_de_ana_frank_fonta.jpg"
+        },
+        {
+            "attributes": {
+                "type": "Libros__c",
+                "referenceId": "Libros__cRef2"
+            },
+            "Name": "La jugada de mi vida: Memorias",
+            "editorial__c": "Norma",
+            "portada_url__c": "https://www.arteletralibreria.com.co/imagenes/9788416/978841666526.GIF"
+        },
+        {
+            "attributes": {
+                "type": "Libros__c",
+                "referenceId": "Libros__cRef3"
+            },
+            "Name": "Las aventuras de Tom Sawyer",
+            "editorial__c": "Alianza",
+            "portada_url__c": "https://www.alianzaeditorial.es/imagenes/libros/grande/9788491042686-las-aventuras-de-tom-sawyer.jpg"
+        }
+    ]
+}
