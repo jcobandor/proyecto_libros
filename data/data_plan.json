@@ -1,0 +1,8 @@
+[
+    {
+        "sobject":"Libros__c",
+        "saveRefs":true,
+        "resolveRefs":false,
+        "files":["Libros__c.json"]
+    }
+]
