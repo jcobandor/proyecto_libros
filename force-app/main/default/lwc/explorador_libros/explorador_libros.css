@@ -1,0 +1,15 @@
+:host{ /*Tamaño contenedor*/
+    max-width: 350px;
+    display: block;
+}   
+
+p.sinopsis{ /*Tamaño tarjeta*/
+    min-height: 60px;
+}
+
+img{ /*Altura y border para todas las imagenes*/
+    height: 200px;
+    border-radius: 1.5rem;
+    border: 1px solid rgb(221,219,218);
+}
+

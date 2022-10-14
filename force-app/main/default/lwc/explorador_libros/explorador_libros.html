@@ -1,7 +1,13 @@
 <template>
     <lightning-card  title={libros.nombre} icon-name="custom:custom55">
         <lightning-button label="Ver detalles" slot="actions"></lightning-button>
-        <p class="slds-p-horizontal_small">{libros.sinopsis}</p>
+        <p class="sinopsis slds-p-horizontal_small">{libros.sinopsis}</p>
+        <img
+            class="explorador_libros slds-align_absolute-center slds-var-m-around_medium"
+            src={libros.portada_url}
+            alt={libros.nombre}
+            /> 
+            <!--Clase #1 centra la imagen - Clase #2 sirve de padding-->
         <p slot="footer">Card Footer</p>
     </lightning-card>
 </template>
